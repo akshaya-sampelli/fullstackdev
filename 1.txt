@@ -2,3 +2,4 @@ Html and CSS
 JavaScript
 bootstrap
 Javascript
+jQuery
