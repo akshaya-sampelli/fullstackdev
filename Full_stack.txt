@@ -1,4 +1,0 @@
-HTML and CSS
-JavaScript
-bootstrap
-HTML5 CSS3
